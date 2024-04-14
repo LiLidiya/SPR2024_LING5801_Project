@@ -1,0 +1,31 @@
+Analysis for oneRate.txt
+Correct Assumption: 6037
+Incorrect Assumption: 4141
+Accuracy: 0.593142071133818
+one:0 two:2677 three:888 four:271 five:305
+
+Analysis for twoRate.txt
+Correct Assumption: 2575
+Incorrect Assumption: 4694
+Accuracy: 0.3542440500756638
+one:2034 two:0 three:1807 four:568 five:285
+
+Analysis for threeRate.txt
+Correct Assumption: 2867
+Incorrect Assumption: 4781
+Accuracy: 0.3748692468619247
+one:676 two:1781 three:0 four:1473 five:851
+
+Analysis for fourRate.txt
+Correct Assumption: 4725
+Incorrect Assumption: 11124
+Accuracy: 0.2981260647359455
+one:526 two:1336 three:4223 four:0 five:5039
+
+Analysis for fiveRate.txt
+Correct Assumption: 9860
+Incorrect Assumption: 6544
+Accuracy: 0.601072909046574
+one:636 two:595 three:1857 four:3456 five:0
+
+Overall accuracy of the classifier: 0.44429086837078513
